@@ -1,0 +1,8 @@
+food item,price,place of origin,is fruit
+Apple,$5.66,Ontario,True
+Banana,$3.35,Ecuador,True
+Carrot,$0.71,Alberta,False
+Dragon Fruit,$3.19,Mexico,True
+Eggs,$3.97,Ontario,False
+Hamburger Buns,$1.25,Quebec,False
+Ice Pops,$4.07,Wisconsin,False

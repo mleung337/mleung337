@@ -1,0 +1,10 @@
+person_id,name,age,address,num_visits,membership
+0,Alice,35,123 Alice Ave,3,TRUE
+1,Bob,27,234 Bob Blvd,7,TRUE
+2,Carol,82,345 Carol Ct,12,FALSE
+3,Dave,17,456 Dave Dr,8,FALSE
+4,Edith,22,567 Edith End,2,FALSE
+5,Frank,11,678 Frank Field,15,TRUE
+6,Gertrude,72,789 Gertrude Gardens,20,FALSE
+7,Hannah,31,890 Hannah Hill,28,TRUE
+8,Ingrid,19,901 Ingrid Inlet,4,TRUE

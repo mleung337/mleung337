@@ -1,0 +1,28 @@
+DAY:Monday
+Gertrude:Carrot,Carrot,Apple,Ice Pops,Dragon Fruit
+Dave:Apple,Banana,Hamburger Buns,Eggs,Banana,Banana
+Frank:Hamburger Buns,Apple,Carrot,Hamburger Buns,Carrot,Carrot,Eggs,Carrot
+Alice:Dragon Fruit,Dragon Fruit,Carrot,Ice Pops,Ice Pops,Dragon Fruit,Hamburger Buns
+Carol:Apple,Banana,Ice Pops,Banana,Ice Pops,Apple,Banana,Eggs,Apple,Hamburger Buns
+DAY:Tuesday
+Carol:Carrot,Apple,Apple
+Bob:Ice Pops,Apple,Dragon Fruit,Carrot,Banana,Eggs
+DAY:Wednesday
+Alice:Ice Pops,Hamburger Buns,Banana,Apple,Hamburger Buns,Dragon Fruit,Carrot,Banana,Ice Pops,Apple
+Frank:Banana,Carrot,Apple,Ice Pops,Ice Pops,Banana,Carrot,Banana,Ice Pops
+Carol:Dragon Fruit,Eggs,Dragon Fruit,Eggs,Eggs,Eggs
+Dave:Eggs,Dragon Fruit,Ice Pops,Hamburger Buns,Apple,Ice Pops,Apple,Hamburger Buns,Eggs,Dragon Fruit
+Gertrude:Banana,Apple,Ice Pops,Eggs,Hamburger Buns,Ice Pops,Dragon Fruit,Hamburger Buns
+Ingrid:Eggs,Eggs,Eggs,Dragon Fruit,Banana,Dragon Fruit
+Bob:Hamburger Buns,Dragon Fruit,Banana,Eggs,Dragon Fruit,Hamburger Buns,Ice Pops,Hamburger Buns,Ice Pops
+DAY:Thursday
+Alice:Banana,Banana,Banana,Banana
+Gertrude:Dragon Fruit,Hamburger Buns,Dragon Fruit,Apple
+Hannah:Carrot,Ice Pops,Eggs
+DAY:Friday
+Ingrid:Dragon Fruit,Banana,Eggs
+Edith:Ice Pops,Carrot,Eggs,Ice Pops,Ice Pops,Hamburger Buns,Banana,Carrot,Ice Pops
+Gertrude:Hamburger Buns,Apple,Carrot,Eggs,Carrot,Apple,Apple
+Bob:Hamburger Buns,Banana,Eggs,Ice Pops,Dragon Fruit,Apple,Eggs,Dragon Fruit
+Frank:Carrot,Hamburger Buns,Apple,Ice Pops,Apple,Eggs,Hamburger Buns,Banana
+Dave:Hamburger Buns,Ice Pops,Apple,Dragon Fruit,Eggs,Ice Pops,Dragon Fruit,Dragon Fruit,Carrot,Eggs

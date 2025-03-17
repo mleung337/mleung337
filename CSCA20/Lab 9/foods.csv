@@ -1,0 +1,13 @@
+food_id,name,price,place_of_origin,is fruit
+0,Apple,5.66,Ontario,TRUE
+1,Banana,3.35,Ecuador,TRUE
+2,Carrot,0.71,Alberta,FALSE
+3,Dragon Fruit,3.19,Mexico,TRUE
+4,Eggs,3.97,Ontario,FALSE
+5,Hamburger Buns,1.25,Quebec,FALSE
+6,Ice Pops,4.07,Wisconsin,FALSE
+7,Juice,2.94,Ontario,FALSE
+8,Kale,1.24,Quebec,FALSE
+9,Lemon,0.24,Ontario,FALSE
+10,Melon,2.21,Ontario,TRUE
+11,Nectarine,1.45,Florida,TRUE
